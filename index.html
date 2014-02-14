@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Masonry Demo</title>
+<script src="masonry.pkgd.min.js"></script>
+<style type="text/css">
+.box{
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 20px;
+    -webkit-transition-property: left,right,top;
+    -moz-transition-property: left,right,top;
+    -ms-transition-property: left,right,top;
+    -o-transition-property: left,right,top;
+    transition-property: left,right,top;
+    -webkit-transition-duration: 0.6s;
+    -moz-transition-duration: 0.6s;
+    -ms-transition-duration: 0.6s;
+    -o-transition-duration: 0.6s;
+    transition-duration: 0.6s;
+}
+
+.cols{
+    -moz-column-count:3;
+    -moz-column-gap: 10px;
+    -webkit-column-count:3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;
+}
+
+.box.one{
+    height: 200px;
+    background-color: #d77575;
+}
+.box.two{
+    height: 300px;
+    background-color: #dcbc4c;
+}
+.box.three{
+    background-color: #a3ca3b;
+    height: 400px;
+}   
+.box.four{
+    background-color: #3daee3;
+    height: 500px;
+}
+.box.five{
+    background-color: #bb8ed8;
+    height: 600px;
+}
+.box.six{
+    background-color: #baafb1;
+    height: 200px;
+}
+#page-wrap{
+    width: 960px;
+    margin: 0 auto;
+    padding-top: 20px;
+    position: relative;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+img {
+    vertical-align: middle;
+}
+#header h2{
+    text-align: center;
+}
+#header a{
+    text-decoration: none;
+    color: #3D91EC;
+    display: block;
+    text-align: center;
+}
+</style>
+
+
+</head>
+
+<body>
+<script src="js/vendor/modernizr-2.6.2.min.js"></script>   
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src=""></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+	$('.container').masonry({
+	  itemSelector: '.box',
+	  columnWidth: 250,
+	  gutterWidth: 10,
+	  isOriginLeft: false
+	  
+	});
+});
+        </script>
+
+	<div id="page-wrap">
+    <div id="header">
+                <h2>CSS3 Based Masonry Layout With jQuery Masonry as Fallback</h2>
+                <a href="#">&larr; Go Back To Tutorial</a>
+    </div>
+    <hr/>
+    <div class="container cols">
+                <img class="box" width="300" height="220" src="http://farm9.staticflickr.com/8436/7787073628_5fff9a70d1_n.jpg" alt="Yahoo! Hack 2012 India">
+                <div class="box one"></div>
+                <div class="box two"></div>
+                <img class="box" width="300" height="202" src="http://farm9.staticflickr.com/8431/7787083378_933c87b6fd_n.jpg" alt="Reid Burke Node.js Presentation">
+                <div class="box one"></div>
+                <img class="box" width="300" height="300" src="http://farm9.staticflickr.com/8360/8332274557_25fc9df0d9_n.jpg" alt="Good Read on a Lazy Afternoon">                
+                <div class="box three"></div>
+                <img width="300" height="225" src="http://farm9.staticflickr.com/8448/7787081028_39feaf1405_n.jpg" alt="Pictrendz Winners" class="box">
+                <div class="box two"></div>
+                <img class="box" width="300" height="202" src="http://farm9.staticflickr.com/8075/8321349902_e89372006b_n.jpg" alt="Afternoon Workspace">
+                <div class="box five"></div>
+                <div class="box one"></div>
+                <img width="300" height="225" src="http://farm5.staticflickr.com/4148/5083309354_cb2dc8c911_n.jpg" alt="Durga Puja" class="box">
+                <div class="box two"></div>
+                <img width="300" height="225" src="http://farm4.staticflickr.com/3482/3948152628_66ea9d4856_n.jpg" alt="Frog" class="box">
+                <div class="box six"></div>
+                <img class="box" width="300" height="202" src="http://farm8.staticflickr.com/7117/7787080134_2cd4f6dcf8_n.jpg" alt="Winning Moments">
+                <div class="box three"></div>
+                <img width="300" height="225" src="http://farm3.staticflickr.com/2774/4019603631_890528fd86_n.jpg" alt="Diyas" class="box">
+                <div class="box two"></div>
+            </div>
+            </div>
+</body>
+</html>
