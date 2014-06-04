@@ -1,0 +1,51 @@
+{
+  "title": "UOYmedia Mobile Affiliate Network",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#993300"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "Find Advertiser",
+      "id": 3
+    },
+    "2": {
+      "title": "Important things must done",
+      "id": 5
+    },
+    "-1": {
+      "title": "Find Publisher",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Advertise on  review mobile network website",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Mobyaffiliate",
+              "id": 9
+            }
+          }
+        },
+        "2": {
+          "title": "Forums",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Warrior Forums",
+              "id": 10
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    }
+  }
+}
