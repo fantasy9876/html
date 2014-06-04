@@ -15,6 +15,32 @@
         "style": {
           "background": "#0000ff"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Directly Email",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "IGG",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "cooperation@igg.com",
+                  "id": 19
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Contact through website",
+          "id": 16
+        },
+        "3": {
+          "title": "Affiliate websites",
+          "id": 17
+        }
       }
     },
     "2": {
