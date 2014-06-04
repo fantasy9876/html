@@ -38,6 +38,11 @@
               "title": "Mobyaffiliate",
               "id": 9
             }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
           }
         },
         "2": {
@@ -47,6 +52,11 @@
             "1": {
               "title": "Warrior Forums",
               "id": 10
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
             }
           }
         }
