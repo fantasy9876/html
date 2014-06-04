@@ -67,7 +67,12 @@
               "ideas": {
                 "1": {
                   "title": "http://www.machinezone.com/contact/",
-                  "id": 22
+                  "id": 22,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Game of War",
@@ -91,7 +96,12 @@
               "ideas": {
                 "1": {
                   "title": "http://about.king.com/about/contact",
-                  "id": 24
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Farm Heroes Saga",
@@ -115,7 +125,12 @@
               "ideas": {
                 "1": {
                   "title": "https://gu3.co.jp/en/",
-                  "id": 26
+                  "id": 26,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Brave Frontier",
@@ -187,6 +202,26 @@
             "style": {
               "background": "#008000"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "Wordpress",
+              "id": 33,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "Defined Template",
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
           }
         },
         "2": {
@@ -195,6 +230,35 @@
           "attr": {
             "style": {
               "background": "#008000"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Outlook",
+              "id": 35,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "Google",
+              "id": 36,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "3": {
+              "title": "Another Host Mail Services",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
             }
           }
         }
@@ -231,6 +295,54 @@
             "1": {
               "title": "Warrior Forums",
               "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "3": {
+          "title": "Banner on website",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#800080"
+            }
+          }
+        },
+        "4": {
+          "title": "Register network",
+          "id": 39,
+          "ideas": {
+            "1": {
+              "title": "Affpaying",
+              "id": 40,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "Affiliate vote",
+              "id": 41,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "3": {
+              "title": "Affliate Fix",
+              "id": 43,
               "attr": {
                 "style": {
                   "background": "#800080"
