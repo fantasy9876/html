@@ -24,6 +24,26 @@
         "style": {
           "background": "#0000ff"
         }
+      },
+      "ideas": {
+        "1": {
+          "title": "Design Home page",
+          "id": 13,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        },
+        "2": {
+          "title": "Create uoymedia email",
+          "id": 14,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
+        }
       }
     },
     "-1": {
