@@ -27,19 +27,147 @@
               "ideas": {
                 "1": {
                   "title": "cooperation@igg.com",
-                  "id": 19
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Castle Clash",
+                  "id": 32,
+                  "attr": {
+                    "style": {
+                      "background": "#3366ff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
                 }
               }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
             }
           }
         },
         "2": {
           "title": "Contact through website",
-          "id": 16
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Machine Zone",
+              "id": 21,
+              "ideas": {
+                "1": {
+                  "title": "http://www.machinezone.com/contact/",
+                  "id": 22
+                },
+                "2": {
+                  "title": "Game of War",
+                  "id": 29,
+                  "attr": {
+                    "style": {
+                      "background": "#3366ff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "King",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "http://about.king.com/about/contact",
+                  "id": 24
+                },
+                "2": {
+                  "title": "Farm Heroes Saga",
+                  "id": 28,
+                  "attr": {
+                    "style": {
+                      "background": "#3366ff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "3": {
+              "title": "Gu3",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "https://gu3.co.jp/en/",
+                  "id": 26
+                },
+                "2": {
+                  "title": "Brave Frontier",
+                  "id": 27,
+                  "attr": {
+                    "style": {
+                      "background": "#3366ff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "3": {
           "title": "Affiliate websites",
-          "id": 17
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Offervault",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "Odigger",
+              "id": 31,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         }
       }
     },
@@ -82,7 +210,12 @@
           "ideas": {
             "1": {
               "title": "Mobyaffiliate",
-              "id": 9
+              "id": 9,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
             }
           },
           "attr": {
@@ -97,7 +230,12 @@
           "ideas": {
             "1": {
               "title": "Warrior Forums",
-              "id": 10
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
             }
           },
           "attr": {
