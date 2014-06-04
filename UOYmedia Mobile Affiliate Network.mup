@@ -10,11 +10,21 @@
   "ideas": {
     "1": {
       "title": "Find Advertiser",
-      "id": 3
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
     },
     "2": {
       "title": "Important things must done",
-      "id": 5
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
     },
     "-1": {
       "title": "Find Publisher",
