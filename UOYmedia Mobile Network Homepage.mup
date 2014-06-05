@@ -1,5 +1,56 @@
 {
   "title": "UOYmedia Mobile Network Homepage",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#800000"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "Header",
+      "id": 2
+    },
+    "2": {
+      "title": "Footer",
+      "id": 5
+    },
+    "3": {
+      "title": "Main Navigation",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "Advertiser",
+          "id": 8
+        },
+        "2": {
+          "title": "Publisher",
+          "id": 9
+        },
+        "3": {
+          "title": "Contact Us",
+          "id": 10
+        },
+        "4": {
+          "title": "FAQ",
+          "id": 11
+        }
+      }
+    },
+    "-1": {
+      "title": "Slider",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Can slide images",
+          "id": 12
+        }
+      }
+    },
+    "-2": {
+      "title": "Subpage",
+      "id": 6
+    }
+  }
 }
