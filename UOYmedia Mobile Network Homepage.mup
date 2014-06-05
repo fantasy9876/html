@@ -14,7 +14,13 @@
     },
     "2": {
       "title": "Footer",
-      "id": 5
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Can slide up",
+          "id": 17
+        }
+      }
     },
     "3": {
       "title": "Main Navigation",
@@ -38,6 +44,42 @@
         }
       }
     },
+    "4": {
+      "title": "Signup/Login",
+      "id": 20,
+      "ideas": {
+        "1": {
+          "title": "Sign up",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Advertiser Sign Up",
+              "id": 22
+            },
+            "2": {
+              "title": "Publisher Sign Up",
+              "id": 23
+            }
+          }
+        },
+        "2": {
+          "title": "Login",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Redirect to hasoffers login page",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "uoymedia.hasoffers.com",
+                  "id": 26
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "-1": {
       "title": "Slider",
       "id": 4,
@@ -49,8 +91,36 @@
       }
     },
     "-2": {
-      "title": "Subpage",
+      "title": "Subpages",
       "id": 6
+    },
+    "-3": {
+      "title": "Social Pattern",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": "Create a Linkdl",
+          "id": 14
+        },
+        "2": {
+          "title": "Create Facebook Page",
+          "id": 15
+        },
+        "3": {
+          "title": "Create Twitter",
+          "id": 16
+        },
+        "4": {
+          "title": "Skype",
+          "id": 18,
+          "ideas": {
+            "1": {
+              "title": "Create new Skype: benuoymedia/ben.uoymedia/uoymedia",
+              "id": 19
+            }
+          }
+        }
+      }
     }
   }
 }
