@@ -292,6 +292,12 @@
                 "style": {
                   "background": "#800080"
                 }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Done",
+                  "id": 48
+                }
               }
             }
           },
