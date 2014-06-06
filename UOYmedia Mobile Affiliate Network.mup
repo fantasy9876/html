@@ -262,6 +262,44 @@
               }
             }
           }
+        },
+        "3": {
+          "title": "Change account password",
+          "id": 44,
+          "ideas": {
+            "1": {
+              "title": "Email password",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "2": {
+              "title": "HasOffers password",
+              "id": 46,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "3": {
+              "title": "FTP password",
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         }
       }
     },
