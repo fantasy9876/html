@@ -49,6 +49,14 @@
                   "background": "#800080"
                 }
               }
+            },
+            "2": {
+              "title": "Mobogenie",
+              "id": 53
+            },
+            "3": {
+              "title": "360 Safe",
+              "id": 54
             }
           },
           "attr": {
@@ -164,7 +172,12 @@
                 },
                 "2": {
                   "title": "Onavo",
-                  "id": 52
+                  "id": 52,
+                  "attr": {
+                    "style": {
+                      "background": "#3366ff"
+                    }
+                  }
                 }
               },
               "attr": {
