@@ -161,6 +161,10 @@
                       "background": "#00ccff"
                     }
                   }
+                },
+                "2": {
+                  "title": "Onavo",
+                  "id": 52
                 }
               },
               "attr": {
@@ -303,6 +307,17 @@
                 "style": {
                   "background": "#800080"
                 }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Done",
+                  "id": 51,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
+                }
               }
             },
             "3": {
@@ -316,7 +331,12 @@
               "ideas": {
                 "1": {
                   "title": "Done",
-                  "id": 48
+                  "id": 48,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
                 }
               }
             }
