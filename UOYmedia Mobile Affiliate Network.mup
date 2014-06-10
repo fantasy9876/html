@@ -52,11 +52,43 @@
             },
             "2": {
               "title": "Mobogenie",
-              "id": 53
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "opportunity@mobogenie.com",
+                  "id": 56,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
             },
             "3": {
               "title": "360 Safe",
-              "id": 54
+              "id": 54,
+              "ideas": {
+                "1": {
+                  "title": "partnership@360safe.com",
+                  "id": 57,
+                  "attr": {
+                    "style": {
+                      "background": "#00ccff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
             }
           },
           "attr": {
@@ -180,6 +212,15 @@
                   }
                 }
               },
+              "attr": {
+                "style": {
+                  "background": "#800080"
+                }
+              }
+            },
+            "5": {
+              "title": "Zynga",
+              "id": 58,
               "attr": {
                 "style": {
                   "background": "#800080"
